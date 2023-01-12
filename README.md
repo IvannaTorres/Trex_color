@@ -1,2 +1,1 @@
-# Trex_color
-Juego del trex animado
+# JUEGOS-COMPATIBLES-CON-DISPOSITIVOS-AM2
